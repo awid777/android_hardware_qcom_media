@@ -61,7 +61,6 @@ enum {
     //Extractor sets this
     kKeyUseArbitraryMode     = 'ArbM',  //bool (int32_t)
     kKeySmoothStreaming      = 'ESmS',  //bool (int32_t)
-    kKeyHFR                  = 'hfr ',  // int32_t
 };
 
 enum {
